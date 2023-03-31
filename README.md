@@ -1,6 +1,10 @@
 # English to Hindi Transliteration
 This repo takes english sentence as input and returns a hindi transcripted sentence like “namaste” to “नमस्ते” 
 
+## Evaluation:
+- Train accuracy 84% and Validation accuracy 75%.
+Train Accuracu
+
 ## Instruction to run:
 ### You can run this app in two ways
 1 - As Flask app
