@@ -5,7 +5,7 @@ This repo takes english sentence as input and returns a hindi transcripted sente
 - Train accuracy 84% and Validation accuracy 75%.
 
 ## Instruction to run:
-### You can run this app in two ways
+### You can run this app in two ways app cold start/initializaton time 30-40 sec
 1 - As Flask app
 - Run the following command in different terminal
 
